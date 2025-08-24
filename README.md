@@ -1,8 +1,15 @@
 ## I'm ibrahim! :wave:
 
-![IonThief's Stats](https://github-readme-stats.vercel.app/api?username=IonThief&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![IonThief's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IonThief&theme=vue-dark&hide_border=false)
-![IonThief's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IonThief&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+<table>
+  <tr>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IonThief&theme=vue-dark&hide_border=true" alt="IonThief's Streak">
+  </tr>
+  <tr>
+    <img src="https://github-readme-stats.vercel.app/api?username=IonThief&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="IonThief's Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IonThief&theme=vue-dark&show_icons=true&hide_border=true" alt="IonThief's Top Languages">
+  </tr>
+</table>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
