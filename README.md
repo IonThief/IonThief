@@ -35,6 +35,6 @@
     * I also develop private tools (`EVS`) for processing and visualizing data from event-based cameras.
     * I contributed to **[spikingjelly](https://github.com/IonThief/spikingjelly)**.
 * 👁️ **Vision Transformers**
-* **and more.....**
+* *and more .....*
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZqY3RiMTcyYzI3d3R2OXY2ZGpmeXY0Mnc0dHh6YWhkeXVnYWFnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBd2kLB5qDmysEXre9/giphy.gif" width="300">
