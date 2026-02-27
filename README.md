@@ -22,14 +22,11 @@
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl0cms4YzExc2VkOXRrZHhkbnU4NjJsNG1sOXEyeHpqZjl5a2huNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IbgaMPs8P7Y4hQe6yh/giphy.gif" width="50"> <b> Interests</b>
 
-* 📸 **Classical Computer Vision**
-* ☁️ **3D Point Cloud Processing**
+*  **Classical Computer Vision**
+*  **3D Point Cloud Processing**
     * I contributed to **[DeepGlobalRegistration](https://github.com/IonThief/DeepGlobalRegistration)**
-* 🧱 **Convolutional Neural Networks (CNN)**
-* 🧠 **Spiking Neural Networks & Neuromorphic Vision**
+*  **Convolutional Neural Networks (CNN)**
+*  **Spiking Neural Networks & Neuromorphic Vision**
     * **[SNNLab](https://github.com/IonThief/SNNLab)**: My public, modular repository for building and experimenting with Spiking Neural Networks (SNNs), inspired by OpenMMLab.
     * I also develop private tools (`EVS`) for processing and visualizing data from event-based cameras.
     * I contributed to **[spikingjelly](https://github.com/IonThief/spikingjelly)**.
-* *and more .....*
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZqY3RiMTcyYzI3d3R2OXY2ZGpmeXY0Mnc0dHh6YWhkeXVnYWFnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBd2kLB5qDmysEXre9/giphy.gif" width="300">
