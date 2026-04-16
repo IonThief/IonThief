@@ -16,20 +16,44 @@
 
 ---
 
-### Personal Projects
-- [ ] **SNNLab**
-- [ ] **C++ Camera Calibrator** <!-- A pure C++ program to undistor camera lenses. -->
-- [ ] **C++ Lane Tracker** <!-- Tracking road lanes in real-time. -->
-- [ ] **CUDA Point Cloud Filter** <!-- Cleaning up messy 3D sensor scans instantly using the graphics card. -->
-- [ ] **TensorRT Optimizer** <!-- Squishing heavy AI models so they can actually run on small devices. -->
-- [ ] **Dockerized Project** <!-- Wrapping up my code so anyone can run it with just one terminal command. -->
-- [ ] **ROS 2 Camera Node** <!-- Teaching a robot how to stream what its camera sees. -->
-- [ ] **ViT Image Classifier** <!-- Trying out the attention mechanism to see how AI actually looks at pictures. -->
-- [ ] **Cross-Modal Attention Engine** <!-- Making a model that connects what it reads with what it sees. -->
-- [ ] **RL Navigation Agent** <!-- Training a little virtual agent to dodge obstacles. -->
-- [ ] **NLP Log Analyzer** <!-- A script to automatically figure out why a machine broke just by reading its error logs. -->
-- [ ] **Event Camera Tracker** <!-- Catching fast movements using event cameras. -->
-- [ ] **Visual Odometry** <!-- Figuring out exactly where a car went just by tracking its camera frames. -->
-- [ ] **LiDAR-Camera Sensor Fusion** <!-- Mashing 3D lasers and 2D photos together to get perfect depth. -->
-- [ ] **LLM-to-ROS Commander** <!-- Telling a robot what to do in plain English. -->
-- [ ] **Transformer Object Tracker** <!-- Using transformers to keep track of objects. -->
+### Completed Projects
+* **[TBD]**
+
+---
+
+### Planned Projects
+
+#### Systems & C Programming
+- [ ] **Custom Memory Allocator:** Implementation of `malloc` and `free` to manage heap memory at the OS level.
+- [ ] **Multithreaded HTTP Server:** A concurrent web server handling socket connections and network protocols.
+- [ ] **Minimal Linux Shell:** A command-line interpreter demonstrating process creation and signal handling.
+
+#### Graphics & OpenGL
+- [ ] **Custom Software Rasterizer:** A 3D rendering pipeline written from scratch without GPU acceleration.
+- [ ] **Voxel Engine:** A block-based rendering engine focusing on chunk management and greedy meshing.
+- [ ] **Real-Time Fluid Simulation:** An Eulerian fluid solver implemented using compute shaders.
+- [ ] **Particle System:** A GPU-accelerated engine simulating physical interactions of millions of particles.
+
+#### Computer Vision & Deep Learning
+- [ ] **Camera Calibrator:** A mathematical solver to compute intrinsic parameters and remove lens distortion.
+- [ ] **C++ Lane Tracker:** Finding and tracking road lines in real-time video.
+- [ ] **Visual Odometry System:** Trajectory estimation using sequential camera frames.
+- [ ] **Hand Gesture Controller:** Moving the computer mouse using hand shapes and movements.
+- [ ] **Face Anonymizer:** A fast inference pipeline for real-time privacy blurring in videos.
+- [ ] **ViT Image Classifier:** Using attention mechanisms to see what parts of a picture the AI focuses on.
+- [ ] **Transformer Object Tracker:** Bounding box regression using attention to track moving objects over time.
+- [ ] **Cross-Modal Attention Engine:** A tool that links text descriptions to the correct parts of an image.
+
+#### Robotics & Sensor Fusion
+- [ ] **ROS 2 Vision Node:** A distributed component for streaming and processing live sensor data.
+- [ ] **Event Camera Tracker:** High-speed motion estimation using asynchronous event-based sensors.
+- [ ] **LiDAR-Camera Fusion:** Cross-calibrating 3D point clouds with 2D RGB data for dense depth estimation.
+- [ ] **LLM-to-ROS Commander:** Typing commands in plain English to make a robot move.
+- [ ] **RL Navigation Agent:** A reinforcement learning policy for autonomous obstacle avoidance.
+
+#### Hardware Optimization & Deployment
+- [ ] **CUDA Point Cloud Filter:** Cleaning up messy 3D sensor scans instantly using the graphics card.
+- [ ] **TensorRT Optimizer:** Squishing heavy AI models so they run fast on tiny edge devices.
+- [ ] **Dockerized Vision App:** Wrapping up a complete vision tool so anyone can run it with one command.
+- [ ] **Factory Defect Detector:** A lightweight model that spots scratches on products quickly for an assembly line.
+- [ ] **NLP Log Analyzer:** A script that automatically reads machine error text to figure out why the robot broke.
