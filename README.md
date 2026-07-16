@@ -6,6 +6,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=IonThief&hide=typescript,mdx,css,javascript&langs_count=5)
+
 ---
 
 ### Open Source Contributions
@@ -17,4 +19,3 @@
 ### Projects
 #### [cuda-pi](https://github.com/IonThief/cuda-pi)
 * Implemented custom GPU kernels to accelerate mathematical computations.
-
