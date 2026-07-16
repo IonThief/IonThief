@@ -1,6 +1,5 @@
 # Computer Vision Engineer
 
-### Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -16,6 +15,6 @@
 ---
 
 ### Projects
-* **[TBD]**
-
+#### [cuda-pi](https://github.com/IonThief/cuda-pi)
+* Implemented custom GPU kernels to accelerate mathematical computations.
 
