@@ -18,4 +18,4 @@
 
 ### Projects
 #### [cuda-pi](https://github.com/IonThief/cuda-pi)
-* Implemented custom GPU kernels to accelerate mathematical computations.
+* Custom GPU kernels to compute PI value
