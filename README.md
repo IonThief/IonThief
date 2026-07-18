@@ -17,24 +17,24 @@
     </td>
   </tr>
 
-  <!-- Stats -->
+<!-- Stats -->
   <tr>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=IonThief&langs_count=5&theme=dark&hide_border=true&bg_color=0d1117">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=IonThief&langs_count=5&hide_border=true">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IonThief&langs_count=5&hide_border=true" alt="Top Langs" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=IonThief&amp;hide=html%2Ccss%2Cjavascript%2Ctypescript%2Cmdx&amp;langs_count=5&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=IonThief&amp;hide=html%2Ccss%2Cjavascript%2Ctypescript%2Cmdx&amp;langs_count=5&amp;hide_border=true">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IonThief&amp;hide=html%2Ccss%2Cjavascript%2Ctypescript%2Cmdx&amp;langs_count=5&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117" alt="Top Langs" width="100%" />
       </picture>
     </td>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=IonThief&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=IonThief&show_icons=true&hide_border=true">
-        <img src="https://github-stats-extended.vercel.app/api?username=IonThief&show_icons=true&hide_border=true" alt="GitHub Stats" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=IonThief&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;bg_color=0d1117">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=IonThief&amp;show_icons=true&amp;hide_border=true">
+        <img src="https://github-stats-extended.vercel.app/api?username=IonThief&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;bg_color=0d1117" alt="GitHub Stats" width="100%" />
       </picture>
     </td>
   </tr>
-
+  
   <!-- Projects & OSS -->
   <tr>
     <th width="50%" align="center">Projects</th>
