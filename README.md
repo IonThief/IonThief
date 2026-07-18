@@ -44,7 +44,7 @@
     <td align="left" valign="top">
       <ul>
         <li>
-          <b><a href="https://github.com/cuda-pi">cuda-pi</a></b><br>
+          <b><a href="https://github.com/IonThief/cuda-pi">cuda-pi</a></b><br>
           <i>Custom GPU kernels to compute PI value</i>
         </li>
       </ul>
